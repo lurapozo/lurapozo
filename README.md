@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> 
 </div>
 
-Hi there 👋 I am a Data Scientist and researcher specializing in interpretable AI, with a passion for math & statistics. My favorite language is Python for its flexibility in data science and software development, but I also love using SQL and R for data analysis.
+Hi there 👋 I am a Data Scientist and researcher specializing in explainable AI (XAI), with a passion for math & statistics. My favorite language is Python for its flexibility in data science and software development, but I also love using SQL and R for data analysis.
 
 ## Contact Info 📝
 - **Mail:** luirapozo@gmail.com
