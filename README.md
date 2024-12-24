@@ -24,7 +24,7 @@ Hi there 👋 I am a Data Scientist and researcher specializing in explainable A
 
 ![fastapi](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)
+![spark](https://img.shields.io/badge/Apache%20Spark-FFC721?style=flat-square&logo=apachespark&logoColor=E25A1B)
 
 ### Databases 🗄️
 
