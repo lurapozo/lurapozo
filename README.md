@@ -40,6 +40,5 @@ Hi there 👋 I am a Data Scientist and researcher specializing in explainable A
 
 
 ## Stats 📊
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lurapozo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nightowl)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lurapozo&layout=compact&theme=nightowl)
