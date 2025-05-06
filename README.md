@@ -17,6 +17,7 @@ Hi there 👋 I am a Data Scientist and researcher specializing in explainable A
 
 ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
@@ -36,7 +37,7 @@ Hi there 👋 I am a Data Scientist and researcher specializing in explainable A
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
 ### Learning 📚
-![scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 
 ## Stats 📊
