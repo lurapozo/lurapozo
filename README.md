@@ -38,8 +38,3 @@ Hi there 👋 I am a Data Scientist and researcher specializing in explainable A
 
 ### Learning 📚
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
-
-
-## Stats 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lurapozo&layout=compact&theme=nightowl)
